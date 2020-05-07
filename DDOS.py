@@ -28,15 +28,15 @@ port = raw_input("PORT :")
 
 os.system("!ATTACK!")
 print "[                    ] 0% "
-time.sleep(5)
+time.sleep(3)
 print "[=====               ] 25%"
-time.sleep(5)
+time.sleep(3)
 print "[==========          ] 50%"
-time.sleep(5)
+time.sleep(3)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(3)
 print "[====================] 100%"
-time.sleep(5)
+time.sleep(3)
 print "[========successful===========]"
 time.sleep(3)
 sent = 0
